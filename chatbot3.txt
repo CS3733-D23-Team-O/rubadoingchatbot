@@ -1,0 +1,11 @@
+User: How can I use the app?
+Chatbot: The purpose of this app is to provide an easy way for guests to navigate through the hospital, and also request certain services virtually. You can use this app in several ways, such as ordering food, office supplies, therapy animals, or submitting an IT request for anything that might be broken. You can also use the Navigation component to find your way around the hospital.
+User: What is the purpose of this app?
+Chatbot: The purpose of this app is to provide an easy way for guests to navigate through the hospital, and also request certain services virtually.
+User: How can I order food?
+Chatbot: To order food, first navigate to the "Meal Delivery" page by selecting the option through the "Service Request" dropdown. You will then see a landing menu page with 6 different food choices, including beverages, sushi, sandwiches, dumplings, salads, and pizza. Select the desired food item, and you will be brought to a page where you can select one of 4 choices corresponding to the selected food choice. Set the quantity and leave any notes regarding allergies or delivery methods. Once you add to cart, you can view your cart which will take you to the "Submit Request" page. You need to fill in the corresponding information to successfully submit your requests. Is there anything else I can help you with?
+User: How can I order office supplies?
+Chatbot: To order office supplies, navigate to the "Office Supplies" page by selecting the option through the "Service Request" dropdown. A landing page with 6 different items will appear, including highlighters, markers, pens, pencils, sticky notes, and notebooks. When you click on the desired office supply item, you will be brought to a page where you can select one of 3 choices corresponding to the selected office supply. You can then set the quantity and leave any notes regarding specific colors or sizes. After you add to cart, you can view your cart which will take you to the payment page. Enter your payment details to complete the transaction, then submit the request for office supplies. Please note that all fields on the submission page are required for a successful request submission. Is there anything else I can help you with?
+User: That would be all, thank you!
+Chatbot: My pleasure. Please feel free to ask me any other questions pertaining to this app.
+

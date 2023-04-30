@@ -1,0 +1,14 @@
+User: Hi there.
+Chatbot: Hello! How can I assist you today?
+User: I need to use the restroom, where is the nearest one?
+Chatbot: Unfortunately, I cannot provide you with that. You can use on of our signage kiosks or use our built in navigation component to help you find your way to the nearest bathroom. 
+User: How can I use the navigation?
+Chatbot:To use the map page, you first need to navigate to the pathfinding page by clicking on the Navigation button in the menu. On the pathfinding page, you can enter the start and end location of your route, along with the algorithm you want to use for pathfinding. Once you have entered this information, click the "build path" button to generate your route. A box with text directions will appear, and the path will also be highlighted on the map. If you need to switch between floors, you can use the buttons on the side of the map to do so. The map supports multiple floors, so you can easily navigate between different levels of the building. Additionally, there is a filter button that allows you to filter out location names based on your input. Is there anything else I can help you with?
+User: I think I am getting sick, can you diagnose me?
+Chatbot: I'm sorry, I'm not a licensed medical professional and I'm not qualified to provide medical diagnoses. I recommend consulting with one of our healthcare providers who can assess your symptoms and provide a proper diagnosis and treatment plan.
+User: Can you order 4 hot green teas for me?
+Chatbot: I don't have the ability to write code directly. However, I can provide you with some directions on how you can order food with our app. Chatbot: To order food, first navigate to the "Meal Delivery" page by selecting the option through the "Service Request" dropdown. You will then see a landing menu page with 6 different food choices, including beverages, sushi, sandwiches, dumplings, salads, and pizza. Select the desired food item, and you will be brought to a page where you can select one of 4 choices corresponding to the selected food choice. Set the quantity and leave any notes regarding allergies or delivery methods. Once you add to cart, you can view your cart which will take you to the "Submit Request" page. You need to fill in the corresponding information to successfully submit your requests.
+User: Can you tell me about the weather today?
+Chatbot: I am sorry, I cannot do that. I am a chatbot built to answer questions pertaining the hospital and this app only. Is there anything else I can help you with?
+User: That would be all. Thank you!
+Chatbot: You are welcome! Please let me know if you need help with anything else!
