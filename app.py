@@ -8,7 +8,7 @@ import os
 
 app = Flask(__name__)
 API_KEY = os.environ.get("OPENAI_API_KEY")
-openai.api_key = "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"
+# openai.api_key = "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"
 
 
 def construct_index(directory_path):
