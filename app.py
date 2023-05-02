@@ -61,7 +61,6 @@ def home():
         return render_template('home.html', response=response)
     return render_template('home.html')
 
-
 # Start Flask application
 if __name__ == '__main__':
     construct_index("chatbotEnvironment/")
